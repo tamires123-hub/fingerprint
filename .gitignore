@@ -1,0 +1,17 @@
+__pycache__/
+
+*.env
+
+index_digitais/
+
+mapa_digitais/
+
+MCCSdk\ v2.0/
+
+minucia_buscada/
+
+minucias_busca/
+
+minucia_buscada/
+*.xyt
+
